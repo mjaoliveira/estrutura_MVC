@@ -1,0 +1,3 @@
+Galeria de Fotos...
+
+aqui abaixo estao as <?php echo $qtd; ?> fotos.
